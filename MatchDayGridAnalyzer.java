@@ -1,6 +1,5 @@
 public class CricketScores {
 
-    // Calculate average of one match
     private static double rowAverage(int[] row) {
 
         int sum = 0;
